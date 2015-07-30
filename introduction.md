@@ -1,1 +1,1 @@
-I love Ruby and JavaScript!
+Hi, I'm Sheryl :) I love Ruby and JavaScript!
